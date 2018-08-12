@@ -1,0 +1,7 @@
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\obj\Debug\LotterySimulator.csprojAssemblyReference.cache
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\obj\Debug\LotterySimulator.csproj.CoreCompileInputs.cache
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\bin\Debug\LotterySimulator.exe.config
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\bin\Debug\LotterySimulator.exe
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\bin\Debug\LotterySimulator.pdb
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\obj\Debug\LotterySimulator.exe
+c:\users\volantshark\source\LotterySimulator\LotterySimulator\obj\Debug\LotterySimulator.pdb
